@@ -14,6 +14,8 @@ library(tidyverse)
 
 ## Introduction
 
+I ADDED SOME CODE
+
 Write some text here about what you are doing. Show the code for reading in the `pumpkins.csv` file.
 
 ```{r code_block1}
